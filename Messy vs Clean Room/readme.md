@@ -1,4 +1,4 @@
-# Making Prediction Room
+# Making Room Prediction
 
 
 - **Data Collection:** Kaggle dataset: Messy vs. Clean Room.
