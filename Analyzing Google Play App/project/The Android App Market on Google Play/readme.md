@@ -1,4 +1,4 @@
-# Sentiment Review App on Google Play
+# Sentiment App Review on Google Play
 
 Stages
 
